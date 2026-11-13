@@ -1,12 +1,12 @@
-<img align="right" height="150" src="https://github.com/EnOx-S/EnOx-S/blob/main/pfp.jpg?raw=true" alt="Ylian profile picture" style="border-radius: 10px;" />
-
 <h2 align="left">Hi 👋! My name is Ylian and I'm a Game Developer from France</h2>
+
+<img align="right" height="115" src="https://github.com/EnOx-S/EnOx-S/blob/main/pfp.jpg?raw=true" alt="Ylian profile picture" />
 
 I'm a 17-year-old developer from France learning **2D & 3D game development** and **3D modeling**.
 
 I am a big fan of **NPR Anime** and **Capcom Low Poly** aesthetics.
 
-<br clear="both"/>
+<br clear="both" />
 
 ---
 
